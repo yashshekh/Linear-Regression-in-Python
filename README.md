@@ -1,6 +1,6 @@
 ## Linear Regression in Python
 
-This repository provides an implementation of Linear Regression in Python, demonstrating both simple and multiple linear regression techniques using various methods. The notebook includes detailed explanations, code, and visualizations to help you understand how linear regression works and how to implement it in Python.
+This project provides an implementation of Linear Regression in Python, demonstrating both simple and multiple linear regression techniques using various methods. The notebook includes detailed explanations, code, and visualizations to help you understand how linear regression works and how to implement it in Python.
 
 ## Table of Contents
 
