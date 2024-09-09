@@ -1,10 +1,8 @@
 ## Linear Regression in Python
-===========================
 
 This repository provides an implementation of Linear Regression in Python, demonstrating both simple and multiple linear regression techniques using various methods. The notebook includes detailed explanations, code, and visualizations to help you understand how linear regression works and how to implement it in Python.
 
 ## Table of Contents
------------------
 
 1.  [Introduction](#introduction)
 2.  [Data Analysis](#data-analysis)
@@ -24,17 +22,14 @@ This repository provides an implementation of Linear Regression in Python, demon
 5.  [Conclusion](#conclusion)
 
 # Introduction
-------------
 
 This project explores Linear Regression, a fundamental algorithm in machine learning used for predictive modeling. The notebook demonstrates various methods of implementing linear regression in Python, including hands-on coding examples and visualizations.
 
 # Data Analysis
--------------
 
 The dataset used in this project is the house sales data from King County. The data is analyzed to understand the relationships between the features and the target variable (house price).
 
 # Simple Linear Regression
-------------------------
 
 This section demonstrates the implementation of simple linear regression with one feature:
 
@@ -46,7 +41,6 @@ This section demonstrates the implementation of simple linear regression with on
 -   **Gradient Descent Animation**: An animated view of how gradient descent converges to the optimal solution.
 
 # Multiple Linear Regression
---------------------------
 
 This section covers multiple linear regression with more than one feature:
 
@@ -57,12 +51,10 @@ This section covers multiple linear regression with more than one feature:
 -   **Statsmodel Implementation**: Detailed regression analysis with `Statsmodel`.
 
 # Conclusion
-----------
 
 The notebook concludes with a comparison of the different methods, highlighting their strengths and weaknesses, and provides recommendations on when to use each method based on the problem at hand.
 
 # How to Run
-----------
 
 To run this notebook, you need to have Python installed along with the following libraries:
 
